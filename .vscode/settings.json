@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact"
+    ],
+    "editor.renderWhitespace": "boundary",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
